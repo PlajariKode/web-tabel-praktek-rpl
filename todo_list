@@ -1,0 +1,8 @@
+# ToDo List
+
+- Hanya boleh memasukan angka
+[x] required
+- Anti SQL Injection
+[x] Tampilkan semua kolom materi yang sudah dipraktekan beserta statusnya
+- Mapel yang sama masih tampil di tabel yang berbeda, usahakan untuk menjadikan 1 tabel jika mapelnya sama
+- ...
